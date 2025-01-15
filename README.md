@@ -1,7 +1,7 @@
 "# Game-Development" 
 
 **Top-Down Shooter**:
-
+Emma, Shon, Matthew O., Trevor, Adam, Alex
 **A top-down side scroller game in which you control a tank and shoot enemies as you make your way to a goal**:
 
 **Project Goals**:
