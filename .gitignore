@@ -1,7 +1,4 @@
-*.psd
-
-# Unity specific files
-Temp/
+# User-specific files
 *.user
 *.userprefs
 *.suo
@@ -9,3 +6,24 @@ Temp/
 *.csproj
 *.pidb
 *.pdb
+*.tmp
+*.bak
+*.swp
+*~.ncb
+*.log
+*.vspscc
+.vs/
+
+# Unity specific files
+Temp/
+Obj/
+Library/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
