@@ -1,1 +1,11 @@
 *.psd
+
+# Unity specific files
+Temp/
+*.user
+*.userprefs
+*.suo
+*.sln
+*.csproj
+*.pidb
+*.pdb
