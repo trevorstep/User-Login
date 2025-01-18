@@ -1,0 +1,17 @@
+# Ignore IDEs
+.vscode/
+.idea/
+
+# Ignore build directories
+/bin/
+/obj/
+
+# Ignore Unity-specific files
+.vs/
+.android/
+.gradle/
+.user/
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
